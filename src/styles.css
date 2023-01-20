@@ -1,4 +1,4 @@
-body {
+/* body {
     border: none;
     color: hsl(43, 95%, 17%);
     background-color: #cfcece6b;
@@ -189,3 +189,6 @@ a {
         padding: 1rem;
     }
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */
